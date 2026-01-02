@@ -1,0 +1,1150 @@
+Time (seconds),Event Type,X Coordinate,Y Coordinate,Element Tag,Element ID,Element Class,Key,Scroll X,Scroll Y,Viewport Width,Viewport Height,Action,Data,Is Cheating
+0.025,click,363,286,button,,justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-destructive text-destructive-foreground hover:bg-destructive/90 h-10 px-4 py-2 flex items-center space-x-2,,,,1536,738,,,FALSE
+0.334,mousemove,364,286,,,,,,,1536,738,,,FALSE
+0.439,mousemove,689,305,,,,,,,1536,738,,,FALSE
+0.642,mousemove,838,308,,,,,,,1536,738,,,FALSE
+0.748,mousemove,874,344,,,,,,,1536,738,,,FALSE
+0.854,mousemove,903,369,,,,,,,1536,738,,,FALSE
+0.960,mousemove,1004,393,,,,,,,1536,738,,,FALSE
+1.251,mousemove,1040,399,,,,,,,1536,738,,,FALSE
+1.354,mousemove,1035,394,,,,,,,1536,738,,,FALSE
+1.456,mousemove,1034,393,,,,,,,1536,738,,,FALSE
+1.583,mousemove,1032,393,,,,,,,1536,738,,,FALSE
+1.687,mousemove,1006,396,,,,,,,1536,738,,,FALSE
+1.790,mousemove,920,417,,,,,,,1536,738,,,FALSE
+1.894,mousemove,880,442,,,,,,,1536,738,,,FALSE
+1.997,mousemove,834,465,,,,,,,1536,738,,,FALSE
+2.099,mousemove,815,480,,,,,,,1536,738,,,FALSE
+2.213,mousemove,807,490,,,,,,,1536,738,,,FALSE
+2.436,mousemove,806,493,,,,,,,1536,738,,,FALSE
+2.803,mousemove,804,494,,,,,,,1536,738,,,FALSE
+2.906,mousemove,782,436,,,,,,,1536,738,,,FALSE
+3.060,mousemove,778,430,,,,,,,1536,738,,,FALSE
+3.209,mousemove,776,428,,,,,,,1536,738,,,FALSE
+3.312,mousemove,764,433,,,,,,,1536,738,,,FALSE
+5.525,mousemove,764,433,,,,,,,1536,738,,,FALSE
+5.670,mousemove,774,430,,,,,,,1536,738,,,FALSE
+6.311,mousemove,783,425,,,,,,,1536,738,,,FALSE
+6.672,mousemove,780,441,,,,,,,1536,738,,,FALSE
+6.772,mousemove,759,456,,,,,,,1536,738,,,FALSE
+6.888,mousemove,754,457,,,,,,,1536,738,,,FALSE
+7.295,mousemove,752,457,,,,,,,1536,738,,,FALSE
+7.701,mousemove,752,458,,,,,,,1536,738,,,FALSE
+7.803,mousemove,753,477,,,,,,,1536,738,,,FALSE
+8.645,mousemove,752,482,,,,,,,1536,738,,,FALSE
+10.960,mousemove,751,482,,,,,,,1536,738,,,FALSE
+11.139,mousemove,731,485,,,,,,,1536,738,,,FALSE
+11.259,mousemove,735,485,,,,,,,1536,738,,,FALSE
+11.491,click,737,479,input,,rounded,,,,1536,738,,,FALSE
+11.597,mousemove,738,479,,,,,,,1536,738,,,FALSE
+11.700,mousemove,879,517,,,,,,,1536,738,,,FALSE
+11.803,mousemove,1177,569,,,,,,,1536,738,,,FALSE
+12.128,mousemove,1196,569,,,,,,,1536,738,,,FALSE
+12.233,mousemove,1218,565,,,,,,,1536,738,,,FALSE
+12.383,mousemove,1276,565,,,,,,,1536,738,,,FALSE
+12.831,mousemove,1277,565,,,,,,,1536,738,,,FALSE
+12.937,mousemove,1308,601,,,,,,,1536,738,,,FALSE
+13.085,mousemove,1358,681,,,,,,,1536,738,,,FALSE
+13.217,mousemove,1355,682,,,,,,,1536,738,,,FALSE
+13.358,click,1355,682,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+13.635,mousemove,1354,682,,,,,,,1536,738,,,FALSE
+13.737,mousemove,1340,671,,,,,,,1536,738,,,FALSE
+13.839,mousemove,1318,581,,,,,,,1536,738,,,FALSE
+13.942,mousemove,1314,535,,,,,,,1536,738,,,FALSE
+14.088,mousemove,1376,449,,,,,,,1536,738,,,FALSE
+14.191,mousemove,1415,408,,,,,,,1536,738,,,FALSE
+14.294,mousemove,1416,394,,,,,,,1536,738,,,FALSE
+14.399,mousemove,1417,379,,,,,,,1536,738,,,FALSE
+14.506,mousemove,1422,359,,,,,,,1536,738,,,FALSE
+14.609,mousemove,1436,311,,,,,,,1536,738,,,FALSE
+14.712,mousemove,1448,276,,,,,,,1536,738,,,FALSE
+15.021,click,1450,270,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+15.245,mousemove,1448,270,,,,,,,1536,738,,,FALSE
+15.349,mousemove,1251,362,,,,,,,1536,738,,,FALSE
+15.452,mousemove,1048,473,,,,,,,1536,738,,,FALSE
+15.762,mousemove,1046,477,,,,,,,1536,738,,,FALSE
+15.870,mousemove,971,470,,,,,,,1536,738,,,FALSE
+16.155,mousemove,864,478,,,,,,,1536,738,,,FALSE
+16.260,mousemove,859,474,,,,,,,1536,738,,,FALSE
+16.386,mousemove,856,472,,,,,,,1536,738,,,FALSE
+18.381,mousemove,856,471,,,,,,,1536,738,,,FALSE
+18.866,mousemove,855,469,,,,,,,1536,738,,,FALSE
+18.979,mousemove,839,452,,,,,,,1536,738,,,FALSE
+21.360,mousemove,838,451,,,,,,,1536,738,,,FALSE
+21.470,mousemove,819,454,,,,,,,1536,738,,,FALSE
+21.572,mousemove,803,458,,,,,,,1536,738,,,FALSE
+21.688,mousemove,784,465,,,,,,,1536,738,,,FALSE
+21.791,mousemove,766,465,,,,,,,1536,738,,,FALSE
+21.906,mousemove,744,454,,,,,,,1536,738,,,FALSE
+23.233,mousemove,743,456,,,,,,,1536,738,,,FALSE
+23.446,mousemove,742,460,,,,,,,1536,738,,,FALSE
+23.764,click,742,457,input,,rounded,,,,1536,738,,,FALSE
+24.475,mousemove,742,458,,,,,,,1536,738,,,FALSE
+24.579,mousemove,740,522,,,,,,,1536,738,,,FALSE
+24.773,mousemove,741,560,,,,,,,1536,738,,,FALSE
+26.150,mousemove,742,544,,,,,,,1536,738,,,FALSE
+26.252,mousemove,778,545,,,,,,,1536,738,,,FALSE
+26.502,mousemove,794,545,,,,,,,1536,738,,,FALSE
+26.610,mousemove,762,536,,,,,,,1536,738,,,FALSE
+26.725,mousemove,755,532,,,,,,,1536,738,,,FALSE
+26.830,mousemove,747,531,,,,,,,1536,738,,,FALSE
+26.985,click,746,532,input,,rounded,,,,1536,738,,,FALSE
+26.991,mousemove,746,532,,,,,,,1536,738,,,FALSE
+27.101,mousemove,747,533,,,,,,,1536,738,,,FALSE
+27.203,mousemove,814,541,,,,,,,1536,738,,,FALSE
+27.307,mousemove,1168,592,,,,,,,1536,738,,,FALSE
+27.611,mousemove,1434,636,,,,,,,1536,738,,,FALSE
+27.713,mousemove,1428,632,,,,,,,1536,738,,,FALSE
+27.835,mousemove,1427,631,,,,,,,1536,738,,,FALSE
+28.239,mousemove,1424,633,,,,,,,1536,738,,,FALSE
+28.566,click,1408,677,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+28.829,mousemove,1407,676,,,,,,,1536,738,,,FALSE
+28.937,mousemove,1404,574,,,,,,,1536,738,,,FALSE
+29.040,mousemove,1382,412,,,,,,,1536,738,,,FALSE
+29.143,mousemove,1380,354,,,,,,,1536,738,,,FALSE
+29.246,mousemove,1388,326,,,,,,,1536,738,,,FALSE
+29.349,mousemove,1420,294,,,,,,,1536,738,,,FALSE
+29.452,mousemove,1445,278,,,,,,,1536,738,,,FALSE
+29.555,mousemove,1452,269,,,,,,,1536,738,,,FALSE
+30.326,mousemove,1452,268,,,,,,,1536,738,,,FALSE
+31.119,click,1452,268,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+31.137,mousemove,1452,269,,,,,,,1536,738,,,FALSE
+31.240,mousemove,1438,277,,,,,,,1536,738,,,FALSE
+31.343,mousemove,1156,324,,,,,,,1536,738,,,FALSE
+31.618,mousemove,938,370,,,,,,,1536,738,,,FALSE
+31.720,mousemove,924,364,,,,,,,1536,738,,,FALSE
+32.001,mousemove,923,361,,,,,,,1536,738,,,FALSE
+32.658,mousemove,918,358,,,,,,,1536,738,,,FALSE
+32.761,mousemove,832,433,,,,,,,1536,738,,,FALSE
+32.865,mousemove,787,464,,,,,,,1536,738,,,FALSE
+33.110,click,786,464,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+33.125,mousemove,787,463,,,,,,,1536,738,,,FALSE
+43.412,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,[,,,,,,,FALSE
+43.903,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+44.364,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,],,,,,,,FALSE
+44.778,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+45.468,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,D,,,,,,,FALSE
+45.981,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+46.230,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+47.795,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+49.035,mousemove,794,459,,,,,,,1536,738,,,FALSE
+49.138,mousemove,797,464,,,,,,,1536,738,,,FALSE
+49.241,mousemove,952,390,,,,,,,1536,738,,,FALSE
+49.344,mousemove,969,377,,,,,,,1536,738,,,FALSE
+49.447,mousemove,973,369,,,,,,,1536,738,,,FALSE
+49.776,click,976,361,p,,text-sm,,,,1536,738,,,FALSE
+50.018,click,976,361,p,,text-sm,,,,1536,738,,,FALSE
+50.065,mousemove,975,362,,,,,,,1536,738,,,FALSE
+50.259,copy,,,,,,,,,,,copy,ascendingly,FALSE
+50.168,mousemove,875,442,,,,,,,1536,738,,,FALSE
+50.259,keydown,,,body,,,c,,,,,,,FALSE
+50.320,mousemove,778,468,,,,,,,1536,738,,,FALSE
+50.507,mousemove,775,462,,,,,,,1536,738,,,FALSE
+50.772,click,776,456,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+50.981,mousemove,777,456,,,,,,,1536,738,,,FALSE
+51.212,paste,,,,,,,,,,,paste,ascendingly,FALSE
+51.211,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,v,,,,,,,FALSE
+51.293,mousemove,779,455,,,,,,,1536,738,,,FALSE
+51.399,mousemove,811,462,,,,,,,1536,738,,,FALSE
+51.518,mousemove,848,468,,,,,,,1536,738,,,FALSE
+52.519,mousemove,850,467,,,,,,,1536,738,,,FALSE
+52.623,mousemove,820,466,,,,,,,1536,738,,,FALSE
+52.805,mousemove,771,454,,,,,,,1536,738,,,FALSE
+52.914,mousemove,768,456,,,,,,,1536,738,,,FALSE
+53.350,mousemove,764,461,,,,,,,1536,738,,,FALSE
+53.776,click,760,461,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+53.778,mousemove,760,461,,,,,,,1536,738,,,FALSE
+53.883,mousemove,764,461,,,,,,,1536,738,,,FALSE
+53.900,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,A,,,,,,,FALSE
+53.987,mousemove,849,469,,,,,,,1536,738,,,FALSE
+54.134,mousemove,885,469,,,,,,,1536,738,,,FALSE
+54.235,mousemove,883,459,,,,,,,1536,738,,,FALSE
+54.352,mousemove,871,457,,,,,,,1536,738,,,FALSE
+54.642,mousemove,866,457,,,,,,,1536,738,,,FALSE
+55.311,click,852,458,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+55.375,mousemove,851,458,,,,,,,1536,738,,,FALSE
+55.885,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+56.031,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+56.398,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,:,,,,,,,FALSE
+57.141,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+57.605,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+57.886,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+58.550,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,:,,,,,,,FALSE
+58.818,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+59.706,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+59.906,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+71.731,mousemove,851,458,,,,,,,1536,738,,,FALSE
+71.850,mousemove,850,469,,,,,,,1536,738,,,FALSE
+71.951,mousemove,827,478,,,,,,,1536,738,,,FALSE
+72.054,mousemove,775,505,,,,,,,1536,738,,,FALSE
+72.709,mousemove,767,510,,,,,,,1536,738,,,FALSE
+72.812,mousemove,813,530,,,,,,,1536,738,,,FALSE
+73.217,mousemove,836,545,,,,,,,1536,738,,,FALSE
+73.426,mousemove,839,522,,,,,,,1536,738,,,FALSE
+73.774,mousemove,839,521,,,,,,,1536,738,,,FALSE
+73.885,mousemove,844,516,,,,,,,1536,738,,,FALSE
+74.083,mousemove,845,516,,,,,,,1536,738,,,FALSE
+74.188,mousemove,854,506,,,,,,,1536,738,,,FALSE
+74.728,mousemove,857,503,,,,,,,1536,738,,,FALSE
+74.836,mousemove,854,497,,,,,,,1536,738,,,FALSE
+75.163,mousemove,852,496,,,,,,,1536,738,,,FALSE
+75.930,mousemove,862,490,,,,,,,1536,738,,,FALSE
+76.036,mousemove,897,461,,,,,,,1536,738,,,FALSE
+83.260,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,T,,,,,,,FALSE
+83.971,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+86.414,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,D,,,,,,,FALSE
+92.686,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+95.242,mousemove,906,447,,,,,,,1536,738,,,FALSE
+95.346,mousemove,851,473,,,,,,,1536,738,,,FALSE
+95.527,mousemove,843,467,,,,,,,1536,738,,,FALSE
+95.678,mousemove,842,461,,,,,,,1536,738,,,FALSE
+95.885,click,834,457,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+96.013,mousemove,835,457,,,,,,,1536,738,,,FALSE
+96.284,click,836,457,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+96.333,mousemove,837,457,,,,,,,1536,738,,,FALSE
+97.457,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+97.649,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+97.797,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+98.062,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+99.045,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+100.887,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+101.405,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,1,,,,,,,FALSE
+102.359,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowDown,,,,,,,FALSE
+107.717,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+107.878,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+108.572,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+112.042,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+113.406,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+113.660,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+113.873,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+113.969,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,h,,,,,,,FALSE
+114.107,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+114.229,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+114.473,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+114.629,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+115.105,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+115.280,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+115.537,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+116.787,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+117.263,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+117.452,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+117.655,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+117.748,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,u,,,,,,,FALSE
+117.886,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+118.024,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+118.319,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+119.439,mousemove,844,454,,,,,,,1536,738,,,FALSE
+119.547,mousemove,966,445,,,,,,,1536,738,,,FALSE
+119.650,mousemove,1146,449,,,,,,,1536,738,,,FALSE
+119.753,mousemove,1159,460,,,,,,,1536,738,,,FALSE
+119.856,mousemove,1261,505,,,,,,,1536,738,,,FALSE
+120.150,mousemove,1260,506,,,,,,,1536,738,,,FALSE
+120.331,mousemove,1249,506,,,,,,,1536,738,,,FALSE
+120.432,mousemove,1312,554,,,,,,,1536,738,,,FALSE
+120.596,mousemove,1332,569,,,,,,,1536,738,,,FALSE
+120.699,mousemove,1338,584,,,,,,,1536,738,,,FALSE
+120.888,click,1339,589,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+120.943,mousemove,1339,587,,,,,,,1536,738,,,FALSE
+121.052,mousemove,1308,394,,,,,,,1536,738,,,FALSE
+121.293,mousemove,1308,358,,,,,,,1536,738,,,FALSE
+121.395,mousemove,1404,291,,,,,,,1536,738,,,FALSE
+121.505,mousemove,1432,270,,,,,,,1536,738,,,FALSE
+122.310,click,1434,267,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+122.462,mousemove,1432,269,,,,,,,1536,738,,,FALSE
+122.565,mousemove,1076,342,,,,,,,1536,738,,,FALSE
+122.872,mousemove,832,382,,,,,,,1536,738,,,FALSE
+122.977,mousemove,796,362,,,,,,,1536,738,,,FALSE
+123.879,mousemove,790,356,,,,,,,1536,738,,,FALSE
+123.984,mousemove,806,401,,,,,,,1536,738,,,FALSE
+124.353,mousemove,787,443,,,,,,,1536,738,,,FALSE
+124.456,mousemove,772,420,,,,,,,1536,738,,,FALSE
+127.060,mousemove,758,404,,,,,,,1536,738,,,FALSE
+127.208,mousemove,748,403,,,,,,,1536,738,,,FALSE
+127.355,mousemove,725,380,,,,,,,1536,738,,,FALSE
+127.462,mousemove,735,394,,,,,,,1536,738,,,FALSE
+127.759,mousemove,734,394,,,,,,,1536,738,,,FALSE
+132.113,mousemove,728,389,,,,,,,1536,738,,,FALSE
+132.468,mousemove,699,428,,,,,,,1536,738,,,FALSE
+132.572,mousemove,688,419,,,,,,,1536,738,,,FALSE
+132.675,mousemove,697,454,,,,,,,1536,738,,,FALSE
+132.999,mousemove,722,491,,,,,,,1536,738,,,FALSE
+133.105,mousemove,734,467,,,,,,,1536,738,,,FALSE
+133.324,mousemove,734,463,,,,,,,1536,738,,,FALSE
+133.427,mousemove,732,459,,,,,,,1536,738,,,FALSE
+133.529,mousemove,730,435,,,,,,,1536,738,,,FALSE
+133.926,mousemove,730,432,,,,,,,1536,738,,,FALSE
+134.078,mousemove,735,429,,,,,,,1536,738,,,FALSE
+134.298,mousemove,737,424,,,,,,,1536,738,,,FALSE
+139.098,mousemove,736,424,,,,,,,1536,738,,,FALSE
+139.248,mousemove,676,474,,,,,,,1536,738,,,FALSE
+139.356,mousemove,639,484,,,,,,,1536,738,,,FALSE
+139.460,mousemove,567,464,,,,,,,1536,738,,,FALSE
+139.566,mousemove,552,408,,,,,,,1536,738,,,FALSE
+139.787,mousemove,553,405,,,,,,,1536,738,,,FALSE
+139.896,mousemove,577,414,,,,,,,1536,738,,,FALSE
+140.002,mousemove,594,426,,,,,,,1536,738,,,FALSE
+140.105,mousemove,610,449,,,,,,,1536,738,,,FALSE
+140.226,mousemove,632,492,,,,,,,1536,738,,,FALSE
+140.330,mousemove,655,505,,,,,,,1536,738,,,FALSE
+140.433,mousemove,704,513,,,,,,,1536,738,,,FALSE
+140.679,mousemove,717,514,,,,,,,1536,738,,,FALSE
+140.784,mousemove,759,487,,,,,,,1536,738,,,FALSE
+140.887,mousemove,819,423,,,,,,,1536,738,,,FALSE
+140.990,mousemove,856,379,,,,,,,1536,738,,,FALSE
+141.136,mousemove,864,371,,,,,,,1536,738,,,FALSE
+141.354,mousemove,875,370,,,,,,,1536,738,,,FALSE
+141.788,mousemove,885,370,,,,,,,1536,738,,,FALSE
+142.781,mousemove,887,370,,,,,,,1536,738,,,FALSE
+143.302,mousemove,891,373,,,,,,,1536,738,,,FALSE
+143.474,mousemove,890,378,,,,,,,1536,738,,,FALSE
+143.579,mousemove,902,413,,,,,,,1536,738,,,FALSE
+143.687,mousemove,908,434,,,,,,,1536,738,,,FALSE
+143.812,mousemove,899,445,,,,,,,1536,738,,,FALSE
+143.915,mousemove,888,460,,,,,,,1536,738,,,FALSE
+144.021,mousemove,860,488,,,,,,,1536,738,,,FALSE
+144.300,mousemove,855,489,,,,,,,1536,738,,,FALSE
+144.403,mousemove,848,489,,,,,,,1536,738,,,FALSE
+144.505,mousemove,835,501,,,,,,,1536,738,,,FALSE
+144.618,mousemove,828,502,,,,,,,1536,738,,,FALSE
+144.724,mousemove,823,500,,,,,,,1536,738,,,FALSE
+144.833,mousemove,820,493,,,,,,,1536,738,,,FALSE
+144.942,mousemove,819,485,,,,,,,1536,738,,,FALSE
+145.624,mousemove,818,482,,,,,,,1536,738,,,FALSE
+145.736,mousemove,821,476,,,,,,,1536,738,,,FALSE
+145.974,mousemove,823,475,,,,,,,1536,738,,,FALSE
+146.457,mousemove,824,478,,,,,,,1536,738,,,FALSE
+146.561,mousemove,830,456,,,,,,,1536,738,,,FALSE
+146.697,mousemove,830,457,,,,,,,1536,738,,,FALSE
+146.884,mousemove,823,482,,,,,,,1536,738,,,FALSE
+146.991,mousemove,815,476,,,,,,,1536,738,,,FALSE
+147.094,mousemove,764,445,,,,,,,1536,738,,,FALSE
+147.258,mousemove,755,435,,,,,,,1536,738,,,FALSE
+147.361,mousemove,755,417,,,,,,,1536,738,,,FALSE
+147.475,mousemove,747,416,,,,,,,1536,738,,,FALSE
+147.990,mousemove,736,421,,,,,,,1536,738,,,FALSE
+148.091,mousemove,738,424,,,,,,,1536,738,,,FALSE
+153.349,mousemove,738,425,,,,,,,1536,738,,,FALSE
+153.611,mousemove,739,466,,,,,,,1536,738,,,FALSE
+153.984,mousemove,746,484,,,,,,,1536,738,,,FALSE
+154.264,click,743,483,input,,rounded,,,,1536,738,,,FALSE
+154.385,mousemove,744,483,,,,,,,1536,738,,,FALSE
+154.488,mousemove,957,537,,,,,,,1536,738,,,FALSE
+154.720,mousemove,1184,592,,,,,,,1536,738,,,FALSE
+154.827,mousemove,1168,583,,,,,,,1536,738,,,FALSE
+154.930,mousemove,1169,577,,,,,,,1536,738,,,FALSE
+155.894,mousemove,1176,576,,,,,,,1536,738,,,FALSE
+155.997,mousemove,1230,586,,,,,,,1536,738,,,FALSE
+156.100,mousemove,1343,633,,,,,,,1536,738,,,FALSE
+156.326,mousemove,1368,642,,,,,,,1536,738,,,FALSE
+156.461,click,1368,642,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+156.518,mousemove,1368,641,,,,,,,1536,738,,,FALSE
+156.621,mousemove,1287,594,,,,,,,1536,738,,,FALSE
+156.724,mousemove,1032,496,,,,,,,1536,738,,,FALSE
+157.242,mousemove,1015,491,,,,,,,1536,738,,,FALSE
+157.343,mousemove,966,467,,,,,,,1536,738,,,FALSE
+157.445,mousemove,896,436,,,,,,,1536,738,,,FALSE
+157.549,mousemove,816,385,,,,,,,1536,738,,,FALSE
+157.651,mousemove,806,378,,,,,,,1536,738,,,FALSE
+157.755,mousemove,806,344,,,,,,,1536,738,,,FALSE
+157.858,mousemove,816,276,,,,,,,1536,738,,,FALSE
+157.985,mousemove,814,271,,,,,,,1536,738,,,FALSE
+158.705,click,812,270,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+158.858,mousemove,811,270,,,,,,,1536,738,,,FALSE
+158.961,mousemove,792,297,,,,,,,1536,738,,,FALSE
+159.070,mousemove,764,397,,,,,,,1536,738,,,FALSE
+159.405,mousemove,764,447,,,,,,,1536,738,,,FALSE
+159.525,mousemove,764,438,,,,,,,1536,738,,,FALSE
+159.627,mousemove,770,441,,,,,,,1536,738,,,FALSE
+160.107,mousemove,791,445,,,,,,,1536,738,,,FALSE
+160.248,mousemove,878,354,,,,,,,1536,738,,,FALSE
+160.353,mousemove,894,350,,,,,,,1536,738,,,FALSE
+160.458,mousemove,910,310,,,,,,,1536,738,,,FALSE
+160.561,mousemove,907,276,,,,,,,1536,738,,,FALSE
+160.664,mousemove,874,268,,,,,,,1536,738,,,FALSE
+160.923,click,864,267,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+161.197,mousemove,865,267,,,,,,,1536,738,,,FALSE
+161.300,mousemove,980,402,,,,,,,1536,738,,,FALSE
+161.714,mousemove,1114,485,,,,,,,1536,738,,,FALSE
+161.825,mousemove,1112,481,,,,,,,1536,738,,,FALSE
+166.987,mousemove,1113,481,,,,,,,1536,738,,,FALSE
+167.094,mousemove,1221,498,,,,,,,1536,738,,,FALSE
+167.474,mousemove,1259,525,,,,,,,1536,738,,,FALSE
+167.591,mousemove,1260,525,,,,,,,1536,738,,,FALSE
+169.476,mousemove,1266,524,,,,,,,1536,738,,,FALSE
+169.579,mousemove,1092,389,,,,,,,1536,738,,,FALSE
+169.683,mousemove,1008,298,,,,,,,1536,738,,,FALSE
+169.787,mousemove,952,270,,,,,,,1536,738,,,FALSE
+169.888,mousemove,907,267,,,,,,,1536,738,,,FALSE
+170.090,click,904,266,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+170.339,mousemove,904,268,,,,,,,1536,738,,,FALSE
+170.446,mousemove,973,353,,,,,,,1536,738,,,FALSE
+170.549,mousemove,1039,450,,,,,,,1536,738,,,FALSE
+170.886,mousemove,1052,497,,,,,,,1536,738,,,FALSE
+171.009,mousemove,1044,480,,,,,,,1536,738,,,FALSE
+171.113,mousemove,1044,475,,,,,,,1536,738,,,FALSE
+171.260,mousemove,1048,449,,,,,,,1536,738,,,FALSE
+177.291,mousemove,1048,445,,,,,,,1536,738,,,FALSE
+177.585,click,1038,453,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+177.813,mousemove,1039,452,,,,,,,1536,738,,,FALSE
+177.919,mousemove,1080,329,,,,,,,1536,738,,,FALSE
+189.038,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+189.275,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+189.474,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+189.977,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+190.533,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+190.741,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+191.153,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,D,,,,,,,FALSE
+191.392,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,F,,,,,,,FALSE
+192.511,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+193.177,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+193.768,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+193.989,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+195.328,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,:,,,,,,,FALSE
+195.550,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+196.052,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+199.801,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,p,,,,,,,FALSE
+200.595,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+201.098,mousemove,1076,324,,,,,,,1536,738,,,FALSE
+201.205,mousemove,879,480,,,,,,,1536,738,,,FALSE
+201.308,mousemove,834,478,,,,,,,1536,738,,,FALSE
+201.421,mousemove,823,454,,,,,,,1536,738,,,FALSE
+201.526,mousemove,808,458,,,,,,,1536,738,,,FALSE
+201.701,mousemove,803,458,,,,,,,1536,738,,,FALSE
+201.824,mousemove,799,458,,,,,,,1536,738,,,FALSE
+202.051,mousemove,796,462,,,,,,,1536,738,,,FALSE
+202.184,click,797,462,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+202.186,mousemove,797,462,,,,,,,1536,738,,,FALSE
+202.295,mousemove,804,450,,,,,,,1536,738,,,FALSE
+202.942,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+203.063,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+203.207,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+203.452,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+203.623,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+203.746,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,y,,,,,,,FALSE
+204.529,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowDown,,,,,,,FALSE
+206.238,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,p,,,,,,,FALSE
+206.530,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+206.842,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,.,,,,,,,FALSE
+208.043,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,D,,,,,,,FALSE
+208.303,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+208.448,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+208.578,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+209.006,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,F,,,,,,,FALSE
+209.305,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+209.327,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+209.520,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+209.912,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+210.055,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+210.132,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+210.307,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,m,,,,,,,FALSE
+210.395,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+210.803,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+211.048,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+211.646,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+212.544,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+212.665,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+212.858,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+213.019,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+213.180,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,a,,,,,,,FALSE
+213.319,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,y,,,,,,,FALSE
+214.001,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowRight,,,,,,,FALSE
+215.616,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+216.134,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+217.143,mousemove,806,448,,,,,,,1536,738,,,FALSE
+217.248,mousemove,758,452,,,,,,,1536,738,,,FALSE
+217.425,mousemove,731,481,,,,,,,1536,738,,,FALSE
+217.551,mousemove,732,480,,,,,,,1536,738,,,FALSE
+217.767,click,736,479,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+217.886,mousemove,737,479,,,,,,,1536,738,,,FALSE
+217.976,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+217.989,mousemove,768,473,,,,,,,1536,738,,,FALSE
+218.168,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+218.426,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+218.588,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,=,,,,,,,FALSE
+218.654,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+219.124,mousemove,771,472,,,,,,,1536,738,,,FALSE
+219.234,mousemove,787,480,,,,,,,1536,738,,,FALSE
+219.339,mousemove,742,494,,,,,,,1536,738,,,FALSE
+219.538,click,740,496,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+219.570,mousemove,741,496,,,,,,,1536,738,,,FALSE
+220.067,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+220.233,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+220.415,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+220.550,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,u,,,,,,,FALSE
+220.654,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+220.773,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+220.900,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+221.085,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+221.244,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+221.794,mousemove,757,497,,,,,,,1536,738,,,FALSE
+221.970,mousemove,824,502,,,,,,,1536,738,,,FALSE
+222.078,mousemove,931,492,,,,,,,1536,738,,,FALSE
+222.182,mousemove,1241,516,,,,,,,1536,738,,,FALSE
+222.319,mousemove,1272,521,,,,,,,1536,738,,,FALSE
+222.424,mousemove,1352,541,,,,,,,1536,738,,,FALSE
+222.539,mousemove,1367,562,,,,,,,1536,738,,,FALSE
+222.643,mousemove,1366,573,,,,,,,1536,738,,,FALSE
+222.751,mousemove,1359,589,,,,,,,1536,738,,,FALSE
+223.153,mousemove,1356,594,,,,,,,1536,738,,,FALSE
+223.368,click,1356,594,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+223.373,mousemove,1355,594,,,,,,,1536,738,,,FALSE
+223.479,mousemove,1311,479,,,,,,,1536,738,,,FALSE
+223.894,mousemove,1300,434,,,,,,,1536,738,,,FALSE
+224.000,mousemove,1178,407,,,,,,,1536,738,,,FALSE
+224.267,mousemove,1110,412,,,,,,,1536,738,,,FALSE
+224.370,mousemove,962,337,,,,,,,1536,738,,,FALSE
+224.470,mousemove,894,300,,,,,,,1536,738,,,FALSE
+224.576,mousemove,842,272,,,,,,,1536,738,,,FALSE
+224.679,mousemove,816,262,,,,,,,1536,738,,,FALSE
+225.011,click,815,262,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+225.029,mousemove,815,261,,,,,,,1536,738,,,FALSE
+225.346,mousemove,812,259,,,,,,,1536,738,,,FALSE
+225.614,click,787,254,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+225.996,mousemove,787,257,,,,,,,1536,738,,,FALSE
+226.097,mousemove,776,357,,,,,,,1536,738,,,FALSE
+226.200,mousemove,770,393,,,,,,,1536,738,,,FALSE
+226.329,mousemove,755,414,,,,,,,1536,738,,,FALSE
+226.436,mousemove,748,422,,,,,,,1536,738,,,FALSE
+226.539,mousemove,746,426,,,,,,,1536,738,,,FALSE
+226.641,mousemove,740,425,,,,,,,1536,738,,,FALSE
+227.776,click,740,425,input,,rounded,,,,1536,738,,,FALSE
+227.873,mousemove,740,426,,,,,,,1536,738,,,FALSE
+227.977,mousemove,740,436,,,,,,,1536,738,,,FALSE
+228.085,mousemove,740,446,,,,,,,1536,738,,,FALSE
+228.188,mousemove,742,473,,,,,,,1536,738,,,FALSE
+228.334,mousemove,743,521,,,,,,,1536,738,,,FALSE
+228.450,mousemove,744,537,,,,,,,1536,738,,,FALSE
+228.728,mousemove,744,536,,,,,,,1536,738,,,FALSE
+228.830,mousemove,745,512,,,,,,,1536,738,,,FALSE
+229.030,mousemove,746,509,,,,,,,1536,738,,,FALSE
+229.329,mousemove,743,508,,,,,,,1536,738,,,FALSE
+229.504,click,743,508,input,,rounded,,,,1536,738,,,FALSE
+230.382,mousemove,744,508,,,,,,,1536,738,,,FALSE
+230.485,mousemove,804,506,,,,,,,1536,738,,,FALSE
+230.588,mousemove,1144,518,,,,,,,1536,738,,,FALSE
+230.889,mousemove,1348,495,,,,,,,1536,738,,,FALSE
+230.998,mousemove,1375,480,,,,,,,1536,738,,,FALSE
+231.128,mousemove,1375,479,,,,,,,1536,738,,,FALSE
+231.230,mousemove,1168,431,,,,,,,1536,738,,,FALSE
+231.439,mousemove,1161,436,,,,,,,1536,738,,,FALSE
+231.545,mousemove,960,354,,,,,,,1536,738,,,FALSE
+231.697,mousemove,810,256,,,,,,,1536,738,,,FALSE
+231.834,mousemove,811,256,,,,,,,1536,738,,,FALSE
+231.940,mousemove,898,258,,,,,,,1536,738,,,FALSE
+232.043,mousemove,888,258,,,,,,,1536,738,,,FALSE
+232.337,click,854,258,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+232.572,mousemove,854,260,,,,,,,1536,738,,,FALSE
+232.673,mousemove,892,398,,,,,,,1536,738,,,FALSE
+233.205,mousemove,909,452,,,,,,,1536,738,,,FALSE
+233.340,mousemove,924,255,,,,,,,1536,738,,,FALSE
+233.461,mousemove,923,255,,,,,,,1536,738,,,FALSE
+233.809,mousemove,915,257,,,,,,,1536,738,,,FALSE
+235.022,mousemove,896,258,,,,,,,1536,738,,,FALSE
+238.191,mousemove,896,261,,,,,,,1536,738,,,FALSE
+238.386,mousemove,896,262,,,,,,,1536,738,,,FALSE
+238.521,mousemove,895,265,,,,,,,1536,738,,,FALSE
+239.580,click,895,265,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+239.977,mousemove,895,266,,,,,,,1536,738,,,FALSE
+240.080,mousemove,896,296,,,,,,,1536,738,,,FALSE
+240.182,mousemove,905,333,,,,,,,1536,738,,,FALSE
+240.459,mousemove,905,336,,,,,,,1536,738,,,FALSE
+240.564,mousemove,868,472,,,,,,,1536,738,,,FALSE
+240.915,mousemove,843,539,,,,,,,1536,738,,,FALSE
+241.021,mousemove,834,521,,,,,,,1536,738,,,FALSE
+241.948,mousemove,832,519,,,,,,,1536,738,,,FALSE
+242.110,mousemove,830,517,,,,,,,1536,738,,,FALSE
+242.354,mousemove,828,513,,,,,,,1536,738,,,FALSE
+243.409,mousemove,827,512,,,,,,,1536,738,,,FALSE
+243.655,mousemove,825,510,,,,,,,1536,738,,,FALSE
+243.758,mousemove,919,530,,,,,,,1536,738,,,FALSE
+244.163,mousemove,998,541,,,,,,,1536,738,,,FALSE
+244.337,mousemove,988,525,,,,,,,1536,738,,,FALSE
+244.443,mousemove,984,492,,,,,,,1536,738,,,FALSE
+244.546,mousemove,984,443,,,,,,,1536,738,,,FALSE
+244.668,mousemove,984,437,,,,,,,1536,738,,,FALSE
+245.025,mousemove,987,440,,,,,,,1536,738,,,FALSE
+245.128,mousemove,986,608,,,,,,,1536,738,,,FALSE
+245.564,mousemove,986,612,,,,,,,1536,738,,,FALSE
+245.667,mousemove,1027,592,,,,,,,1536,738,,,FALSE
+245.774,mousemove,1037,585,,,,,,,1536,738,,,FALSE
+246.083,mousemove,1042,572,,,,,,,1536,738,,,FALSE
+246.185,mousemove,1062,556,,,,,,,1536,738,,,FALSE
+246.286,mousemove,1111,524,,,,,,,1536,738,,,FALSE
+246.516,mousemove,1113,525,,,,,,,1536,738,,,FALSE
+246.619,mousemove,1116,528,,,,,,,1536,738,,,FALSE
+246.722,mousemove,1111,518,,,,,,,1536,738,,,FALSE
+246.834,mousemove,1110,512,,,,,,,1536,738,,,FALSE
+246.940,mousemove,1104,502,,,,,,,1536,738,,,FALSE
+247.043,mousemove,1058,439,,,,,,,1536,738,,,FALSE
+247.146,mousemove,979,345,,,,,,,1536,738,,,FALSE
+247.339,mousemove,979,344,,,,,,,1536,738,,,FALSE
+247.443,mousemove,1224,545,,,,,,,1536,738,,,FALSE
+247.583,mousemove,1360,589,,,,,,,1536,738,,,FALSE
+247.703,mousemove,1359,588,,,,,,,1536,738,,,FALSE
+247.807,mousemove,1184,417,,,,,,,1536,738,,,FALSE
+247.916,mousemove,1047,275,,,,,,,1536,738,,,FALSE
+248.019,mousemove,1003,277,,,,,,,1536,738,,,FALSE
+248.437,click,947,276,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+248.624,mousemove,946,277,,,,,,,1536,738,,,FALSE
+248.728,mousemove,1007,385,,,,,,,1536,738,,,FALSE
+248.831,mousemove,1075,493,,,,,,,1536,738,,,FALSE
+249.041,mousemove,1082,501,,,,,,,1536,738,,,FALSE
+249.295,mousemove,1080,501,,,,,,,1536,738,,,FALSE
+249.401,mousemove,971,463,,,,,,,1536,738,,,FALSE
+249.537,click,954,458,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+260.197,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+260.381,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+260.538,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+260.666,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+261.091,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,p,,,,,,,FALSE
+261.212,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+261.377,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+261.397,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+261.777,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+262.019,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+262.699,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+262.857,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+263.499,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+263.712,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+264.723,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,:,,,,,,,FALSE
+264.928,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+265.261,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+265.479,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+265.623,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,p,,,,,,,FALSE
+265.745,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+265.849,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+266.049,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+266.142,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+266.432,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+266.852,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+267.468,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+267.900,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,',,,,,,,FALSE
+268.617,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,',,,,,,,FALSE
+268.963,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+269.727,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,h,,,,,,,FALSE
+269.834,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+269.981,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+270.119,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+270.255,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+270.660,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+270.829,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,w,,,,,,,FALSE
+270.884,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+271.046,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+271.153,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,k,,,,,,,FALSE
+271.427,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+271.610,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+271.731,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+272.369,mousemove,970,450,,,,,,,1536,738,,,FALSE
+272.477,mousemove,977,449,,,,,,,1536,738,,,FALSE
+272.578,mousemove,1202,576,,,,,,,1536,738,,,FALSE
+272.783,mousemove,1314,572,,,,,,,1536,738,,,FALSE
+273.045,click,1344,593,svg,,[object SVGAnimatedString],,,,1536,738,,,FALSE
+273.075,mousemove,1343,593,,,,,,,1536,738,,,FALSE
+273.178,mousemove,1116,460,,,,,,,1536,738,,,FALSE
+273.396,mousemove,1056,426,,,,,,,1536,738,,,FALSE
+273.501,mousemove,983,267,,,,,,,1536,738,,,FALSE
+273.687,mousemove,956,220,,,,,,,1536,738,,,FALSE
+273.796,mousemove,974,240,,,,,,,1536,738,,,FALSE
+273.966,mousemove,977,246,,,,,,,1536,738,,,FALSE
+274.168,click,977,248,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+274.202,mousemove,976,248,,,,,,,1536,738,,,FALSE
+274.305,mousemove,890,309,,,,,,,1536,738,,,FALSE
+274.686,mousemove,810,413,,,,,,,1536,738,,,FALSE
+274.790,mousemove,795,403,,,,,,,1536,738,,,FALSE
+274.893,mousemove,778,388,,,,,,,1536,738,,,FALSE
+275.376,mousemove,759,379,,,,,,,1536,738,,,FALSE
+275.481,mousemove,736,400,,,,,,,1536,738,,,FALSE
+275.600,mousemove,736,413,,,,,,,1536,738,,,FALSE
+275.816,mousemove,736,418,,,,,,,1536,738,,,FALSE
+275.917,mousemove,745,464,,,,,,,1536,738,,,FALSE
+276.034,mousemove,744,468,,,,,,,1536,738,,,FALSE
+276.137,mousemove,740,476,,,,,,,1536,738,,,FALSE
+276.272,mousemove,741,477,,,,,,,1536,738,,,FALSE
+276.418,click,741,477,input,,rounded,,,,1536,738,,,FALSE
+276.497,mousemove,742,477,,,,,,,1536,738,,,FALSE
+276.602,mousemove,871,463,,,,,,,1536,738,,,FALSE
+277.094,mousemove,890,460,,,,,,,1536,738,,,FALSE
+277.453,mousemove,888,460,,,,,,,1536,738,,,FALSE
+277.560,mousemove,814,447,,,,,,,1536,738,,,FALSE
+278.100,mousemove,740,429,,,,,,,1536,738,,,FALSE
+278.150,click,739,430,div,,flex items-center space-x-2,,,,1536,738,,,FALSE
+278.384,mousemove,737,430,,,,,,,1536,738,,,FALSE
+278.680,mousemove,744,435,,,,,,,1536,738,,,FALSE
+278.784,mousemove,734,426,,,,,,,1536,738,,,FALSE
+278.996,mousemove,731,420,,,,,,,1536,738,,,FALSE
+279.003,click,731,420,div,,p-4 bg-muted rounded-lg,,,,1536,738,,,FALSE
+279.105,mousemove,738,421,,,,,,,1536,738,,,FALSE
+279.281,click,739,421,input,,rounded,,,,1536,738,,,FALSE
+279.396,mousemove,740,421,,,,,,,1536,738,,,FALSE
+279.499,mousemove,866,472,,,,,,,1536,738,,,FALSE
+279.846,mousemove,992,519,,,,,,,1536,738,,,FALSE
+279.948,mousemove,1006,510,,,,,,,1536,738,,,FALSE
+280.051,mousemove,1196,556,,,,,,,1536,738,,,FALSE
+280.308,mousemove,1255,572,,,,,,,1536,738,,,FALSE
+280.722,mousemove,1256,562,,,,,,,1536,738,,,FALSE
+280.826,mousemove,1277,565,,,,,,,1536,738,,,FALSE
+280.930,mousemove,1290,566,,,,,,,1536,738,,,FALSE
+281.033,mousemove,1320,600,,,,,,,1536,738,,,FALSE
+281.144,mousemove,1330,617,,,,,,,1536,738,,,FALSE
+281.251,mousemove,1336,641,,,,,,,1536,738,,,FALSE
+282.997,click,1337,645,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+283.118,mousemove,1337,643,,,,,,,1536,738,,,FALSE
+283.221,mousemove,1366,474,,,,,,,1536,738,,,FALSE
+283.627,mousemove,1381,405,,,,,,,1536,738,,,FALSE
+283.730,mousemove,1383,325,,,,,,,1536,738,,,FALSE
+283.834,mousemove,1378,299,,,,,,,1536,738,,,FALSE
+283.936,mousemove,1372,264,,,,,,,1536,738,,,FALSE
+284.101,click,1372,251,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+285.674,mousemove,1372,252,,,,,,,1536,738,,,FALSE
+285.778,mousemove,1371,310,,,,,,,1536,738,,,FALSE
+286.120,mousemove,1376,332,,,,,,,1536,738,,,FALSE
+286.221,mousemove,1376,323,,,,,,,1536,738,,,FALSE
+286.324,mousemove,1380,312,,,,,,,1536,738,,,FALSE
+286.789,mousemove,1380,311,,,,,,,1536,738,,,FALSE
+286.893,mousemove,1388,300,,,,,,,1536,738,,,FALSE
+286.996,mousemove,1425,266,,,,,,,1536,738,,,FALSE
+287.386,click,1428,264,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+290.722,click,1428,264,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+290.809,mousemove,1427,265,,,,,,,1536,738,,,FALSE
+290.912,mousemove,1030,341,,,,,,,1536,738,,,FALSE
+291.222,mousemove,815,373,,,,,,,1536,738,,,FALSE
+291.325,mousemove,806,366,,,,,,,1536,738,,,FALSE
+291.430,mousemove,803,365,,,,,,,1536,738,,,FALSE
+291.536,mousemove,751,389,,,,,,,1536,738,,,FALSE
+291.808,mousemove,748,393,,,,,,,1536,738,,,FALSE
+291.924,mousemove,736,385,,,,,,,1536,738,,,FALSE
+292.063,mousemove,736,383,,,,,,,1536,738,,,FALSE
+292.466,mousemove,736,384,,,,,,,1536,738,,,FALSE
+292.574,mousemove,736,388,,,,,,,1536,738,,,FALSE
+294.885,click,740,421,input,,rounded,,,,1536,738,,,FALSE
+295.024,mousemove,741,421,,,,,,,1536,738,,,FALSE
+295.130,mousemove,881,393,,,,,,,1536,738,,,FALSE
+295.333,mousemove,922,390,,,,,,,1536,738,,,FALSE
+295.439,mousemove,982,386,,,,,,,1536,738,,,FALSE
+297.862,mousemove,1061,384,,,,,,,1536,738,,,FALSE
+297.967,mousemove,1203,316,,,,,,,1536,738,,,FALSE
+298.070,mousemove,1346,264,,,,,,,1536,738,,,FALSE
+298.173,mousemove,1390,248,,,,,,,1536,738,,,FALSE
+298.276,mousemove,1427,248,,,,,,,1536,738,,,FALSE
+298.926,click,1434,256,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3,,,,1536,738,,,FALSE
+299.290,mousemove,1432,256,,,,,,,1536,738,,,FALSE
+299.406,mousemove,1388,258,,,,,,,1536,738,,,FALSE
+299.512,mousemove,1063,330,,,,,,,1536,738,,,FALSE
+299.997,mousemove,843,385,,,,,,,1536,738,,,FALSE
+300.101,mousemove,834,380,,,,,,,1536,738,,,FALSE
+300.206,mousemove,830,380,,,,,,,1536,738,,,FALSE
+300.715,mousemove,826,379,,,,,,,1536,738,,,FALSE
+301.535,mousemove,826,380,,,,,,,1536,738,,,FALSE
+301.639,mousemove,790,480,,,,,,,1536,738,,,FALSE
+301.752,mousemove,782,483,,,,,,,1536,738,,,FALSE
+301.986,click,779,475,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+302.003,mousemove,779,474,,,,,,,1536,738,,,FALSE
+302.107,mousemove,779,464,,,,,,,1536,738,,,FALSE
+302.955,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+303.080,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+303.507,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,f,,,,,,,FALSE
+304.185,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+305.257,copy,,,,,,,,,,,copy,descending,FALSE
+304.405,mousemove,783,452,,,,,,,1536,738,,,FALSE
+304.506,mousemove,911,403,,,,,,,1536,738,,,FALSE
+304.608,mousemove,937,377,,,,,,,1536,738,,,FALSE
+304.727,mousemove,936,365,,,,,,,1536,738,,,FALSE
+304.945,click,938,359,p,,text-sm,,,,1536,738,,,FALSE
+305.169,click,938,359,p,,text-sm,,,,1536,738,,,FALSE
+305.198,mousemove,936,361,,,,,,,1536,738,,,FALSE
+305.256,keydown,,,body,,,c,,,,,,,FALSE
+305.308,mousemove,814,465,,,,,,,1536,738,,,FALSE
+306.032,paste,,,,,,,,,,,paste,descending,FALSE
+305.426,mousemove,770,478,,,,,,,1536,738,,,FALSE
+305.531,mousemove,762,460,,,,,,,1536,738,,,FALSE
+305.756,click,762,457,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+305.772,mousemove,762,456,,,,,,,1536,738,,,FALSE
+305.876,mousemove,832,453,,,,,,,1536,738,,,FALSE
+306.029,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,v,,,,,,,FALSE
+306.198,mousemove,837,452,,,,,,,1536,738,,,FALSE
+306.434,mousemove,838,452,,,,,,,1536,738,,,FALSE
+307.200,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+307.696,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+307.876,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+308.054,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+308.232,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+308.410,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+309.365,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+309.533,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+309.702,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+309.853,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+309.998,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+310.150,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+310.538,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,_,,,,,,,FALSE
+311.464,paste,,,,,,,,,,,paste,descending,FALSE
+311.464,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,v,,,,,,,FALSE
+314.271,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,z,,,,,,,FALSE
+314.642,mousemove,839,452,,,,,,,1536,738,,,FALSE
+314.836,mousemove,835,453,,,,,,,1536,738,,,FALSE
+315.009,mousemove,832,457,,,,,,,1536,738,,,FALSE
+315.206,mousemove,836,458,,,,,,,1536,738,,,FALSE
+315.309,mousemove,835,458,,,,,,,1536,738,,,FALSE
+315.449,mousemove,762,465,,,,,,,1536,738,,,FALSE
+315.930,click,760,465,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+315.935,mousemove,760,465,,,,,,,1536,738,,,FALSE
+316.041,mousemove,761,465,,,,,,,1536,738,,,FALSE
+316.143,mousemove,824,461,,,,,,,1536,738,,,FALSE
+316.293,mousemove,857,461,,,,,,,1536,738,,,FALSE
+316.440,mousemove,869,458,,,,,,,1536,738,,,FALSE
+316.572,mousemove,873,454,,,,,,,1536,738,,,FALSE
+316.683,mousemove,870,453,,,,,,,1536,738,,,FALSE
+316.961,click,858,453,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+318.637,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+320.154,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,_,,,,,,,FALSE
+320.435,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+320.508,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+320.682,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,d,,,,,,,FALSE
+320.846,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+320.982,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+321.306,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+321.578,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+323.373,paste,,,,,,,,,,,paste,descending,FALSE
+322.486,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,:,,,,,,,FALSE
+322.789,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+323.144,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+323.372,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,v,,,,,,,FALSE
+324.033,mousemove,859,453,,,,,,,1536,738,,,FALSE
+324.137,mousemove,860,513,,,,,,,1536,738,,,FALSE
+324.241,mousemove,843,523,,,,,,,1536,738,,,FALSE
+324.343,mousemove,822,503,,,,,,,1536,738,,,FALSE
+325.915,mousemove,814,493,,,,,,,1536,738,,,FALSE
+326.066,mousemove,706,480,,,,,,,1536,738,,,FALSE
+326.174,mousemove,717,481,,,,,,,1536,738,,,FALSE
+326.554,click,735,478,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+326.557,mousemove,736,478,,,,,,,1536,738,,,FALSE
+326.802,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+327.125,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,o,,,,,,,FALSE
+327.206,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+327.625,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+327.953,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,.,,,,,,,FALSE
+328.774,mousemove,749,470,,,,,,,1536,738,,,FALSE
+328.877,mousemove,837,459,,,,,,,1536,738,,,FALSE
+328.980,mousemove,855,465,,,,,,,1536,738,,,FALSE
+329.298,click,863,481,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+330.477,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+330.672,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+331.321,mousemove,863,480,,,,,,,1536,738,,,FALSE
+331.429,mousemove,874,462,,,,,,,1536,738,,,FALSE
+331.550,mousemove,881,457,,,,,,,1536,738,,,FALSE
+331.690,mousemove,884,457,,,,,,,1536,738,,,FALSE
+331.826,mousemove,887,457,,,,,,,1536,738,,,FALSE
+331.939,click,887,457,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+331.949,mousemove,887,456,,,,,,,1536,738,,,FALSE
+332.561,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,k,,,,,,,FALSE
+332.635,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+332.906,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+333.026,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+333.180,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+333.270,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+333.495,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+333.499,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,y,,,,,,,FALSE
+334.312,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+334.688,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowDown,,,,,,,FALSE
+334.851,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowDown,,,,,,,FALSE
+335.085,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+335.608,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,;,,,,,,,FALSE
+335.734,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+335.932,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+336.244,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+336.369,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+336.499,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+336.727,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,;,,,,,,,FALSE
+336.835,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+336.974,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+337.156,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+337.284,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+337.672,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+337.810,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+337.958,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+338.079,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+338.703,mousemove,887,447,,,,,,,1536,738,,,FALSE
+338.885,mousemove,880,446,,,,,,,1536,738,,,FALSE
+338.991,mousemove,899,492,,,,,,,1536,738,,,FALSE
+339.194,mousemove,898,493,,,,,,,1536,738,,,FALSE
+339.506,click,898,493,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+339.526,mousemove,898,492,,,,,,,1536,738,,,FALSE
+340.115,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+340.646,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+340.974,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+341.147,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,e,,,,,,,FALSE
+341.329,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+341.430,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,u,,,,,,,FALSE
+341.530,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+341.655,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+341.793,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+342.207,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,l,,,,,,,FALSE
+342.304,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,s,,,,,,,FALSE
+342.505,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+343.002,mousemove,899,488,,,,,,,1536,738,,,FALSE
+343.108,mousemove,1057,505,,,,,,,1536,738,,,FALSE
+343.211,mousemove,1140,509,,,,,,,1536,738,,,FALSE
+343.314,mousemove,1342,546,,,,,,,1536,738,,,FALSE
+343.427,mousemove,1347,546,,,,,,,1536,738,,,FALSE
+343.532,mousemove,1356,569,,,,,,,1536,738,,,FALSE
+343.641,mousemove,1365,581,,,,,,,1536,738,,,FALSE
+343.820,click,1365,581,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+343.910,mousemove,1364,580,,,,,,,1536,738,,,FALSE
+344.017,mousemove,1235,471,,,,,,,1536,738,,,FALSE
+344.120,mousemove,1083,312,,,,,,,1536,738,,,FALSE
+344.223,mousemove,1083,290,,,,,,,1536,738,,,FALSE
+344.326,mousemove,1095,257,,,,,,,1536,738,,,FALSE
+344.730,click,1097,250,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+344.878,mousemove,1096,252,,,,,,,1536,738,,,FALSE
+344.981,mousemove,1020,406,,,,,,,1536,738,,,FALSE
+345.266,mousemove,966,469,,,,,,,1536,738,,,FALSE
+345.369,mousemove,864,410,,,,,,,1536,738,,,FALSE
+345.577,mousemove,842,394,,,,,,,1536,738,,,FALSE
+345.684,mousemove,814,388,,,,,,,1536,738,,,FALSE
+345.874,mousemove,791,384,,,,,,,1536,738,,,FALSE
+346.067,mousemove,779,393,,,,,,,1536,738,,,FALSE
+346.188,mousemove,775,393,,,,,,,1536,738,,,FALSE
+346.351,mousemove,774,394,,,,,,,1536,738,,,FALSE
+346.455,mousemove,772,405,,,,,,,1536,738,,,FALSE
+346.658,mousemove,772,406,,,,,,,1536,738,,,FALSE
+346.769,mousemove,758,413,,,,,,,1536,738,,,FALSE
+346.949,mousemove,756,413,,,,,,,1536,738,,,FALSE
+347.102,mousemove,754,414,,,,,,,1536,738,,,FALSE
+347.379,mousemove,754,417,,,,,,,1536,738,,,FALSE
+348.348,mousemove,754,438,,,,,,,1536,738,,,FALSE
+349.080,mousemove,754,441,,,,,,,1536,738,,,FALSE
+349.193,mousemove,744,427,,,,,,,1536,738,,,FALSE
+349.441,click,743,425,input,,rounded,,,,1536,738,,,FALSE
+349.560,mousemove,744,425,,,,,,,1536,738,,,FALSE
+349.666,mousemove,866,424,,,,,,,1536,738,,,FALSE
+349.831,mousemove,872,422,,,,,,,1536,738,,,FALSE
+349.932,mousemove,960,434,,,,,,,1536,738,,,FALSE
+350.522,mousemove,983,440,,,,,,,1536,738,,,FALSE
+350.623,mousemove,1067,473,,,,,,,1536,738,,,FALSE
+350.726,mousemove,1177,513,,,,,,,1536,738,,,FALSE
+350.829,mousemove,1209,521,,,,,,,1536,738,,,FALSE
+350.933,mousemove,1325,553,,,,,,,1536,738,,,FALSE
+351.036,mousemove,1396,580,,,,,,,1536,738,,,FALSE
+351.139,mousemove,1400,633,,,,,,,1536,738,,,FALSE
+351.242,mousemove,1392,665,,,,,,,1536,738,,,FALSE
+351.448,mousemove,1387,668,,,,,,,1536,738,,,FALSE
+351.551,mousemove,1380,666,,,,,,,1536,738,,,FALSE
+351.828,mousemove,1374,664,,,,,,,1536,738,,,FALSE
+352.377,click,1372,663,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+352.424,mousemove,1371,662,,,,,,,1536,738,,,FALSE
+352.534,mousemove,1086,442,,,,,,,1536,738,,,FALSE
+352.636,mousemove,844,283,,,,,,,1536,738,,,FALSE
+352.752,mousemove,842,280,,,,,,,1536,738,,,FALSE
+353.199,click,828,261,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+353.357,mousemove,827,262,,,,,,,1536,738,,,FALSE
+353.460,mousemove,806,310,,,,,,,1536,738,,,FALSE
+353.563,mousemove,782,386,,,,,,,1536,738,,,FALSE
+353.843,mousemove,780,386,,,,,,,1536,738,,,FALSE
+354.765,mousemove,780,385,,,,,,,1536,738,,,FALSE
+354.872,mousemove,870,271,,,,,,,1536,738,,,FALSE
+354.981,mousemove,874,267,,,,,,,1536,738,,,FALSE
+355.193,mousemove,874,266,,,,,,,1536,738,,,FALSE
+355.632,click,850,265,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+356.149,mousemove,850,264,,,,,,,1536,738,,,FALSE
+356.404,mousemove,848,263,,,,,,,1536,738,,,FALSE
+356.946,mousemove,804,260,,,,,,,1536,738,,,FALSE
+357.292,click,774,255,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+357.882,mousemove,774,256,,,,,,,1536,738,,,FALSE
+358.245,mousemove,781,388,,,,,,,1536,738,,,FALSE
+358.351,mousemove,786,400,,,,,,,1536,738,,,FALSE
+358.640,mousemove,792,461,,,,,,,1536,738,,,FALSE
+358.944,mousemove,793,458,,,,,,,1536,738,,,FALSE
+359.147,mousemove,793,460,,,,,,,1536,738,,,FALSE
+359.249,mousemove,746,533,,,,,,,1536,738,,,FALSE
+359.421,mousemove,743,537,,,,,,,1536,738,,,FALSE
+359.650,mousemove,750,458,,,,,,,1536,738,,,FALSE
+359.764,mousemove,747,456,,,,,,,1536,738,,,FALSE
+360.080,mousemove,746,455,,,,,,,1536,738,,,FALSE
+360.193,mousemove,743,453,,,,,,,1536,738,,,FALSE
+361.394,click,743,452,input,,rounded,,,,1536,738,,,FALSE
+361.749,mousemove,744,452,,,,,,,1536,738,,,FALSE
+361.854,mousemove,919,489,,,,,,,1536,738,,,FALSE
+362.197,mousemove,962,501,,,,,,,1536,738,,,FALSE
+362.311,mousemove,952,497,,,,,,,1536,738,,,FALSE
+362.735,mousemove,953,497,,,,,,,1536,738,,,FALSE
+362.842,mousemove,1131,581,,,,,,,1536,738,,,FALSE
+362.945,mousemove,1390,625,,,,,,,1536,738,,,FALSE
+363.048,mousemove,1393,637,,,,,,,1536,738,,,FALSE
+363.155,mousemove,1395,640,,,,,,,1536,738,,,FALSE
+363.261,mousemove,1392,669,,,,,,,1536,738,,,FALSE
+363.549,click,1388,673,button,,inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2,,,,1536,738,,,FALSE
+363.561,mousemove,1386,673,,,,,,,1536,738,,,FALSE
+363.673,mousemove,1216,638,,,,,,,1536,738,,,FALSE
+363.775,mousemove,1095,606,,,,,,,1536,738,,,FALSE
+363.878,mousemove,996,570,,,,,,,1536,738,,,FALSE
+363.983,mousemove,902,527,,,,,,,1536,738,,,FALSE
+364.110,mousemove,902,526,,,,,,,1536,738,,,FALSE
+364.264,mousemove,900,525,,,,,,,1536,738,,,FALSE
+364.369,mousemove,910,419,,,,,,,1536,738,,,FALSE
+364.473,mousemove,906,317,,,,,,,1536,738,,,FALSE
+364.576,mousemove,904,304,,,,,,,1536,738,,,FALSE
+364.678,mousemove,915,273,,,,,,,1536,738,,,FALSE
+364.909,mousemove,919,265,,,,,,,1536,738,,,FALSE
+365.540,click,932,258,button,,inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 rounded-md px-3,,,,1536,738,,,FALSE
+366.700,mousemove,932,260,,,,,,,1536,738,,,FALSE
+366.806,mousemove,884,469,,,,,,,1536,738,,,FALSE
+366.978,mousemove,871,524,,,,,,,1536,738,,,FALSE
+367.079,mousemove,864,499,,,,,,,1536,738,,,FALSE
+367.182,mousemove,865,487,,,,,,,1536,738,,,FALSE
+367.590,click,875,478,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,,,,1536,738,,,FALSE
+367.766,mousemove,876,478,,,,,,,1536,738,,,FALSE
+368.535,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Enter,,,,,,,FALSE
+369.168,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+369.340,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+369.537,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring, ,,,,,,,FALSE
+369.943,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,Backspace,,,,,,,FALSE
+370.197,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,p,,,,,,,FALSE
+370.336,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,r,,,,,,,FALSE
+370.443,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+370.667,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,n,,,,,,,FALSE
+370.784,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,t,,,,,,,FALSE
+371.192,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,(,,,,,,,FALSE
+371.419,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,),,,,,,,FALSE
+372.005,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+372.448,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,',,,,,,,FALSE
+372.628,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,',,,,,,,FALSE
+373.114,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,ArrowLeft,,,,,,,FALSE
+373.633,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,h,,,,,,,FALSE
+373.786,keydown,,,textarea,,w-full h-32 p-3 border border-input rounded-md bg-background resize-none focus:outline-none focus:ring-2 focus:ring-ring,i,,,,,,,FALSE
+374.546,mousemove,874,471,,,,,,,1536,738,,,FALSE
+375.615,mousemove,872,472,,,,,,,1536,738,,,FALSE
+375.721,mousemove,840,506,,,,,,,1536,738,,,FALSE
+376.031,mousemove,824,526,,,,,,,1536,738,,,FALSE
+376.133,mousemove,818,515,,,,,,,1536,738,,,FALSE
+376.293,mousemove,814,501,,,,,,,1536,738,,,FALSE
+377.717,mousemove,807,493,,,,,,,1536,738,,,FALSE
+377.819,mousemove,699,471,,,,,,,1536,738,,,FALSE
+378.107,mousemove,660,467,,,,,,,1536,738,,,FALSE
+378.210,mousemove,676,439,,,,,,,1536,738,,,FALSE
+378.316,mousemove,708,453,,,,,,,1536,738,,,FALSE
+378.418,mousemove,756,509,,,,,,,1536,738,,,FALSE
+378.572,mousemove,761,521,,,,,,,1536,738,,,FALSE
+378.683,mousemove,771,533,,,,,,,1536,738,,,FALSE
+378.784,mousemove,783,565,,,,,,,1536,738,,,FALSE
+378.888,mousemove,832,594,,,,,,,1536,738,,,FALSE
+379.141,mousemove,846,600,,,,,,,1536,738,,,FALSE
+379.255,mousemove,863,594,,,,,,,1536,738,,,FALSE
+379.365,mousemove,868,590,,,,,,,1536,738,,,FALSE
+379.519,mousemove,874,588,,,,,,,1536,738,,,FALSE
+379.682,mousemove,887,587,,,,,,,1536,738,,,FALSE
+379.786,mousemove,892,585,,,,,,,1536,738,,,FALSE
+379.895,mousemove,922,572,,,,,,,1536,738,,,FALSE
+380.219,mousemove,941,553,,,,,,,1536,738,,,FALSE
+380.329,mousemove,942,552,,,,,,,1536,738,,,FALSE
+380.458,mousemove,951,569,,,,,,,1536,738,,,FALSE
+380.592,mousemove,954,569,,,,,,,1536,738,,,FALSE
+380.697,mousemove,991,565,,,,,,,1536,738,,,FALSE
+380.849,mousemove,1007,561,,,,,,,1536,738,,,FALSE
+380.952,mousemove,1007,549,,,,,,,1536,738,,,FALSE
+381.167,mousemove,1007,549,,,,,,,1536,738,,,FALSE
+381.572,mousemove,972,581,,,,,,,1536,738,,,FALSE
+381.679,mousemove,973,576,,,,,,,1536,738,,,FALSE
+381.978,mousemove,974,576,,,,,,,1536,738,,,FALSE
+382.079,mousemove,1017,565,,,,,,,1536,738,,,FALSE
+382.182,mousemove,1102,549,,,,,,,1536,738,,,FALSE
+382.516,mousemove,1139,557,,,,,,,1536,738,,,FALSE
+382.625,mousemove,1134,549,,,,,,,1536,738,,,FALSE
+382.728,mousemove,1139,546,,,,,,,1536,738,,,FALSE
+383.329,mousemove,1143,543,,,,,,,1536,738,,,FALSE
+383.431,mousemove,1127,548,,,,,,,1536,738,,,FALSE
+384.060,tab-switch,,,,,,,,,,,blur,,FALSE
+384.313,tab-switch,,,,,,,,,,,focus,,FALSE
+383.578,mousemove,1056,586,,,,,,,1536,738,,,FALSE
+383.679,mousemove,944,725,,,,,,,1536,738,,,FALSE
+384.758,mousemove,934,736,,,,,,,1536,738,,,FALSE
+384.861,mousemove,1018,633,,,,,,,1536,738,,,FALSE
+384.964,mousemove,1038,601,,,,,,,1536,738,,,FALSE
+385.899,mousemove,1045,596,,,,,,,1536,738,,,FALSE
+386.001,mousemove,1112,586,,,,,,,1536,738,,,FALSE
+386.104,mousemove,1301,591,,,,,,,1536,738,,,FALSE
+386.407,mousemove,1318,593,,,,,,,1536,738,,,FALSE
+386.516,mousemove,1318,589,,,,,,,1536,738,,,FALSE
+386.631,mousemove,1323,588,,,,,,,1536,738,,,FALSE
+386.734,mousemove,1337,589,,,,,,,1536,738,,,FALSE
+386.915,mousemove,1353,590,,,,,,,1536,738,,,FALSE
+387.618,mousemove,1357,590,,,,,,,1536,738,,,FALSE
+387.723,mousemove,1359,586,,,,,,,1536,738,,,FALSE
+387.825,mousemove,1387,492,,,,,,,1536,738,,,FALSE
+387.928,mousemove,1416,316,,,,,,,1536,738,,,FALSE
+388.039,mousemove,1419,306,,,,,,,1536,738,,,FALSE
+388.140,mousemove,1437,282,,,,,,,1536,738,,,FALSE
+388.310,mousemove,1442,277,,,,,,,1536,738,,,FALSE
+388.413,mousemove,1362,473,,,,,,,1536,738,,,FALSE
+388.516,mousemove,1312,584,,,,,,,1536,738,,,FALSE
+388.666,mousemove,1308,585,,,,,,,1536,738,,,FALSE
+388.774,mousemove,1298,572,,,,,,,1536,738,,,FALSE
+388.880,mousemove,1275,557,,,,,,,1536,738,,,FALSE
+388.982,mousemove,1264,552,,,,,,,1536,738,,,FALSE
+389.086,mousemove,1251,529,,,,,,,1536,738,,,FALSE
+389.195,mousemove,1243,506,,,,,,,1536,738,,,FALSE
+389.298,mousemove,1247,497,,,,,,,1536,738,,,FALSE
+389.475,mousemove,1247,498,,,,,,,1536,738,,,FALSE
+389.591,mousemove,1230,547,,,,,,,1536,738,,,FALSE
+389.699,mousemove,1142,561,,,,,,,1536,738,,,FALSE
+389.801,mousemove,903,510,,,,,,,1536,738,,,FALSE
+389.913,mousemove,786,496,,,,,,,1536,738,,,FALSE
+390.018,mousemove,720,464,,,,,,,1536,738,,,FALSE
+390.122,mousemove,547,385,,,,,,,1536,738,,,FALSE
+390.316,mousemove,544,384,,,,,,,1536,738,,,FALSE
+390.423,mousemove,480,337,,,,,,,1536,738,,,FALSE
+390.587,mousemove,462,333,,,,,,,1536,738,,,FALSE
+390.692,mousemove,436,346,,,,,,,1536,738,,,FALSE
+390.795,mousemove,404,330,,,,,,,1536,738,,,FALSE
+390.900,mousemove,394,296,,,,,,,1536,738,,,FALSE
+393.576,click,394,292,button,,justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-destructive text-destructive-foreground hover:bg-destructive/90 h-10 px-4 py-2 flex items-center space-x-2,,,,1536,738,,,FALSE
+393.585,mousemove,856,163,,,,,,,1536,738,,,FALSE
+
+SESSION SUMMARY
+Experiment ID,d6801bef-fb5a-42b4-b646-dbd9ee860e80
+Experiment Title,Collecting Data Expirement 2 (more multiple choices)
+Session Duration (seconds),394
+Total Events,1098
+Current Cheating Status,FALSE
+Tab Switch Events,2
+Copy Events,2
+Paste Events,4
+Export Timestamp,2025-08-19T10:02:22.498Z
+
+ANSWERS
+Question 3a5ec5ba-be85-487c-93b2-c5276c99da26,_var
+Question d071f89e-c5cc-4256-9838-f88bfffd42e3,AI
+Question b7211f5d-eadc-45e5-a654-9f231c1c6467,"Def Ascending(list1):
+  if 
+  then 
+  return "
+Question a3ee9f53-4422-455d-a2b1-cc9f778328e5,%
+Question 8867600b-3507-468a-9557-ccb326f0edda,"def toDF(narray):
+ df = pd.DataFrame(narray)
+ return df"
+Question b0feffba-b85c-47df-b3a3-aa45f947b46d,"def printt():
+  print('hello world')
+  print('hi')"
+Question 8441b8d3-67a1-46d4-a2b9-34fffe0b2e70,A
+Question a4ff5c11-2f6a-4f3a-baac-719fad1f196c,4
+Question 23d64ff6-3a5a-40e8-aadb-97d923c4117c,"def descending_order(lst):
+ sort.descending(lst)
+ return lst"
+Question 4e0e7def-1387-463b-94a5-3b35e5692040,RNN
+
+SUBMITTED ANSWERS
+Question 3a5ec5ba-be85-487c-93b2-c5276c99da26,_var
+Question d071f89e-c5cc-4256-9838-f88bfffd42e3,AI
+Question b7211f5d-eadc-45e5-a654-9f231c1c6467,"Def Ascending(list1):
+  if 
+  then 
+  return "
+Question a3ee9f53-4422-455d-a2b1-cc9f778328e5,%
+Question 8867600b-3507-468a-9557-ccb326f0edda,"def toDF(narray):
+ df = pd.DataFrame(narray)
+ return df"
+Question b0feffba-b85c-47df-b3a3-aa45f947b46d,"def printt():
+  print('hello world')"
+Question 8441b8d3-67a1-46d4-a2b9-34fffe0b2e70,A
+Question 23d64ff6-3a5a-40e8-aadb-97d923c4117c,"def descending_order(lst):
+ sort.descending(lst)
+ return lst"
+Question 4e0e7def-1387-463b-94a5-3b35e5692040,RNN
